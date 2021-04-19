@@ -1,0 +1,15 @@
+.imgContainer {
+  width: 100px;
+  margin: 0 auto;
+}
+.castList {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.item {
+  align-items: center;
+  text-align: center;
+  width: 25%;
+}

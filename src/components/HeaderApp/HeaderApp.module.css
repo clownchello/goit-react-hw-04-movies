@@ -1,0 +1,17 @@
+.nav {
+  padding: 20px;
+  font-weight: 700;
+  box-shadow: 0 0px 6px rgba(0, 0, 0, 0.25), 0 0px 10px rgba(0, 0, 0, 0.22);
+}
+.link {
+  padding: 20px;
+  color: #000;
+  text-decoration: none;
+  font-size: large;
+  transition: all ease 0.2s;
+}
+
+.linkActive {
+  color: rgb(35, 152, 247);
+  box-shadow: 0 5px 0 #3c93d5;
+}
